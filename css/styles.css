@@ -748,6 +748,7 @@ background-color: var(--acent-color);
     right: 8px;
     width: 30px;
     height: 30px;
+    box-sizing: border-box;
     display: flex;
     justify-content: center;
     align-items: center;
