@@ -757,4 +757,36 @@ background-color: var(--acent-color);
 
 }
 
+.signature-label {
+    display: block;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--acent-color-background-text);
+}
 
+.footer-form {
+    display: flex;
+    padding-left: 93px;
+    padding-top: 12px;
+
+
+}
+
+.signature-input {
+    height: 50px;
+    
+}
+.signature-btn {
+
+width: 200px;
+height: 50px;
+margin-left: 12px;
+}
+
+.modal-form {
+    
+}
